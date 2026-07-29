@@ -1,0 +1,4 @@
+print("ItzYumi: Executing UI.luau")
+loadstring(game:HttpGet("https://gist.githubusercontent.com/ItzYumi/bda2035568473778d88936ce278f4736/raw/505ad1148482e37cb7df598ce1a98f09d0a557f8/UI.luau"))()
+print("ItzYumi: Executing Function.luau")
+loadstring(game:HttpGet("https://gist.githubusercontent.com/ItzYumi/086da34b90faac09c98da80d451f959f/raw/5b554e367069b859b616f1c6c9c6c9b3a6832e67/Function.luau"))()
